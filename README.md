@@ -1,1 +1,1 @@
-aytacpacal.github.io
+https://aytacpacal.github.io/
