@@ -12,4 +12,4 @@ I completed my undergraduate studies in Physics at Boğaziçi University in 2015
 
 I believe the idea that the scientific knowledge should be simplified to be conveyed to people, otherwise scientific facts will not be enough to save the future of the Earth. With this idea in mind, I created a YouTube channel to create and publish videos about commonly misunderstood scientific topics.
 
-In my master study, I worked on the visualization of climate change data in Turkey and MENA (the Middle East and North Africa) region, and analyzed the return periods of extreme weather events.
+In my master study, I worked on the visualization of climate change data in Turkey and MENA (the Middle East and North Africa) region, and analyzed the return periods of extreme weather events. My current doctoral research focuses on detecting and understanding extreme events in a changing climate using machine learning. 
