@@ -81,7 +81,7 @@ analytics:
   provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "G-6GF8B51Q6J"
-
+google_analytics   : "G-6GF8B51Q6J"
 
 # Site Author
 author:
