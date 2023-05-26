@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "google-site-verification=UhbrhPf1cFs2TqI3HNwRq1P5CeqN02EJUjOcFR7oXF8"
+google_site_verification : "UhbrhPf1cFs2TqI3HNwRq1P5CeqN02EJUjOcFR7oXF8"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -181,9 +181,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -227,15 +224,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
