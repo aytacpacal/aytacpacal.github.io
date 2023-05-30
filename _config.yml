@@ -81,7 +81,6 @@ analytics:
   provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "G-MW6PVFZCMS"
-google_analytics   : "G-MW6PVFZCMS"
 
 # Site Author
 author:
