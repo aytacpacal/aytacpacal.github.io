@@ -49,11 +49,6 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-theme: minima
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-
 # SEO Related
 google_site_verification : "UhbrhPf1cFs2TqI3HNwRq1P5CeqN02EJUjOcFR7oXF8"
 bing_site_verification   :
