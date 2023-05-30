@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Boğaziçi University, Turkey, 2010-2015
-* M.S. in Computational Science and Engineering, Boğaziçi University, Turkey, 2017-2019 
 * Ph.D in Atmospheric Physics, “ML-based analysis of extreme events”, German Aerospace Center(DLR) & University of Bremen, Germany, since 03/2020
+* M.S. in Computational Science and Engineering, Boğaziçi University, Turkey, 2017-2019 
+* B.S. in Physics, Boğaziçi University, Turkey, 2010-2015
 
 
 Publications
