@@ -9,11 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+Work
+=====
+| Position | Company Name | Year |
+| ----------- | ----------- | ----------- |
+| PhD Student Researcher | German Aerospace Center(DLR), Institute of Atmospheric Physics,  Earth System Model Evaluation and Analysis | since March 2020
+
+
 Education
 ======
-* Ph.D in Atmospheric Physics, “ML-based analysis of extreme events”, German Aerospace Center(DLR) & University of Bremen, Germany, since 03/2020
-* M.S. in Computational Science and Engineering, Boğaziçi University, Turkey, 2017-2019 
-* B.S. in Physics, Boğaziçi University, Turkey, 2010-2015
+| Qualification | Department, University, Country | Year |
+| ----------- | ----------- | ----------- |
+| PhD Student | Institute of Environmental Physics, University of Bremen, Germany | since March 2020 |
+| MS | Computational Science and Engineering, Boğaziçi University, Turkey | January 2017 - November 2019 |
+| BS | Physics, Boğaziçi University, Turkey | September 2010 - August 2015 |
 
 
 Publications
