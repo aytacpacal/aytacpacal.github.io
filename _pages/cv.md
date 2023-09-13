@@ -11,10 +11,11 @@ redirect_from:
 
 ## Work
 
-|Position|Company Name|Year|
+| Position | Department, Company, Country | Year |
 |-----------|-----------|----------- |
-| PhD Student Researcher |German Aerospace Center(DLR), Institute of Atmospheric Physics,  Earth System Model Evaluation and Analysis | since March 2020
-
+| PhD Student Researcher | Earth System Model Evaluation and Analysis, Institute of Atmospheric Physics, German Aerospace Center (DLR), Germany | since March 2020 |
+| MS Student Researcher | Center for Climate Change and Policy Studies (iklimBU), Boğaziçi University, Turkey | 2018-2019 |
+| Peer Mentor | Brika Sustainability, Turkey | 2018-2019 |
 
 ## Education
 
