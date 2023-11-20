@@ -13,17 +13,17 @@ redirect_from:
 
 | Position | Department, Company, Country | Year |
 |-----------|-----------|----------- |
-| PhD Student Researcher | Deutsches Zentrum für Luft- und Raumfahrt (DLR)<br />German Aerospace Center<br />&nbsp;Institute of Atmospheric Physics<br />&nbsp;Earth System Model Evaluation and Analysis<br />&nbsp;Oberpfaffenhofen, Germany| since March 2020 |
-| MS Student Researcher | Boğaziçi University<br />&nbsp;iklimBU - Center for Climate Change and Policy Studies <br />&nbsp;Istanbul, Turkey | 2018-2019 |
+| PhD Student Researcher | Deutsches Zentrum für Luft- und Raumfahrt (DLR)<br />German Aerospace Center<br />&nbsp;&nbsp;&nbsp;&nbsp;Institute of Atmospheric Physics<br />&nbsp;&nbsp;&nbsp;&nbsp;Earth System Model Evaluation and Analysis<br />&nbsp;&nbsp;&nbsp;&nbsp;Oberpfaffenhofen, Germany| since March 2020 |
+| MS Student Researcher | Boğaziçi University<br />&nbsp;&nbsp;&nbsp;&nbsp;iklimBU - Center for Climate Change and Policy Studies <br />&nbsp;&nbsp;&nbsp;&nbsp;Istanbul, Turkey | 2018-2019 |
 | Peer Mentor | Brika Sustainability, Turkey | 2018-2019 |
 
 ## Education
 
 | Qualification | Department, University, Country | Year |
 | ----------- | ----------- | ----------- |
-| PhD Student | Environmental Physics, University of Bremen, Germany | since March 2020 |
-| MS | Computational Science and Engineering, Boğaziçi University, Turkey | January 2017 - November 2019 |
-| BS | Physics, Boğaziçi University, Turkey | September 2010 - August 2015 |
+| PhD Student | University of Bremen<br />&nbsp;&nbsp;&nbsp;&nbsp;Environmental Physics<br />&nbsp;&nbsp;&nbsp;&nbsp;Germany | since March 2020 |
+| MS | Boğaziçi University<br />&nbsp;&nbsp;&nbsp;&nbsp;Computational Science and Engineering<br />&nbsp;&nbsp;&nbsp;&nbsp;Turkey | January 2017 - November 2019 |
+| BS | Boğaziçi University<br />&nbsp;&nbsp;&nbsp;&nbsp;Physics<br />&nbsp;&nbsp;&nbsp;&nbsp;Turkey | September 2010 - August 2015 |
 
 
 ## Publications
