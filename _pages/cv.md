@@ -11,7 +11,7 @@ redirect_from:
 
 ## Work
 
-| Position | Department, Company, Country | Year |
+| Position |Company | Year |
 |-----------|-----------|----------- |
 | PhD Student Researcher | Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany<br />&nbsp;&nbsp;&nbsp;&nbsp;Institute of Atmospheric Physics<br />&nbsp;&nbsp;&nbsp;&nbsp;Earth System Model Evaluation and Analysis | since March 2020 |
 | MS Student Researcher | Boğaziçi University, Turkey<br />&nbsp;&nbsp;&nbsp;&nbsp;iklimBU - Center for Climate Change and Policy Studies | 2018-2019 |
@@ -19,7 +19,7 @@ redirect_from:
 
 ## Education
 
-| Qualification | Department, University, Country | Year |
+| Qualification | University | Year |
 | ----------- | ----------- | ----------- |
 | PhD Student | University of Bremen, Germany<br />&nbsp;&nbsp;&nbsp;&nbsp;Environmental Physics | since March 2020 |
 | MS | Boğaziçi University, Turkey<br />&nbsp;&nbsp;&nbsp;&nbsp;Computational Science and Engineeringy | January 2017 - November 2019 |
