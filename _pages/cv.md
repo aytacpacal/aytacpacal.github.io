@@ -13,8 +13,8 @@ redirect_from:
 
 | Position | Department, Company, Country | Year |
 |-----------|-----------|----------- |
-| PhD Student Researcher | Deutsches Zentrum für Luft- und Raumfahrt (DLR)<br />German Aerospace Center<br />Institute of Atmospheric Physics<br />Earth System Model Evaluation and Analysis<br />Oberpfaffenhofen, Germany| since March 2020 |
-| MS Student Researcher | Boğaziçi University<br />iklimBU - Center for Climate Change and Policy Studies <br />Istanbul, Turkey | 2018-2019 |
+| PhD Student Researcher | Deutsches Zentrum für Luft- und Raumfahrt (DLR)<br />German Aerospace Center<br />&nbsp;Institute of Atmospheric Physics<br />&nbsp;Earth System Model Evaluation and Analysis<br />&nbsp;Oberpfaffenhofen, Germany| since March 2020 |
+| MS Student Researcher | Boğaziçi University<br />&nbsp;iklimBU - Center for Climate Change and Policy Studies <br />&nbsp;Istanbul, Turkey | 2018-2019 |
 | Peer Mentor | Brika Sustainability, Turkey | 2018-2019 |
 
 ## Education
