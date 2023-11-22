@@ -22,7 +22,7 @@ redirect_from:
 | Qualification | University | Year |
 | ----------- | ----------- | ----------- |
 | **PhD Student** | **University of Bremen, Germany**<br />&nbsp;&nbsp;&nbsp;&nbsp;Environmental Physics | since March 2020 |
-| **MSc in Computational Science and Engineeringy** | **Boğaziçi University, Turkey** | January 2017 - November 2019 |
+| **MSc in Computational Science and Engineering** | **Boğaziçi University, Turkey** | January 2017 - November 2019 |
 | **BSc in Physics** | **Boğaziçi University, Turkey** | September 2010 - August 2015 |
 
 
