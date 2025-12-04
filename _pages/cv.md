@@ -13,16 +13,18 @@ redirect_from:
 
 | Position |Company | Year |
 |-----------|-----------|----------- |
-| **Researcher** | **Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany**<br />&nbsp;&nbsp;&nbsp;&nbsp;Institute of Atmospheric Physics<br />&nbsp;&nbsp;&nbsp;&nbsp;Earth System Model Evaluation and Analysis | since March 2020 |
-| **MSc Student Researcher** | **Boğaziçi University, Turkey**<br />&nbsp;&nbsp;&nbsp;&nbsp;iklimBU - Center for Climate Change and Policy Studies | 2017-2019 |
+| **Researcher** | **Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany**<br> Institute of Atmospheric Physics<br> Earth System Model Evaluation and Analysis | since March 2020 |
+| **MSc Student Researcher** | **Boğaziçi University, Turkey**<br> iklimBU - Center for Climate Change and Policy Studies | 2017-2019 |
 | **Peer Mentor** | **Brika Sustainability, Turkey** | 2018-2019 |
+| *MSc Student Researcher* | *Boğaziçi University, Turkey<br>BUSPIN - Nanomagnetism and Spin Applications Research Group* | 2015-2017 |
 
 ## Education
 
 | Qualification | University | Year |
 | ----------- | ----------- | ----------- |
-| **PhD, Atmospheric Physics** | **University of Bremen, Germany**<br />&nbsp;&nbsp;&nbsp;&nbsp;Institute of Environmental Physics<br /> | March 2020 - September 2025 |
+| **PhD, Atmospheric Physics** | **University of Bremen, Germany**<br>Institute of Environmental Physics<br> | March 2020 - September 2025 |
 | **MSc, Computational Science and Engineering** | **Boğaziçi University, Turkey** | January 2017 - November 2019 |
+| *MSc, Physics* | *Boğaziçi University, Turkey* | *August 2015 - January 2017* |
 | **BSc, Physics** | **Boğaziçi University, Turkey** | September 2010 - August 2015 |
 
 ## Publications
