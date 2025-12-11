@@ -13,7 +13,8 @@ redirect_from:
 
 | Position |Company | Year |
 |-----------|-----------|----------- |
-| **Researcher** | **Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany**<br> Institute of Atmospheric Physics<br> Earth System Model Evaluation and Analysis | since March 2020 |
+| **Postdoc Researcher** | **Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany**<br> Institute of Atmospheric Physics<br> Earth System Model Evaluation and Analysis | Since December 2025 |
+| **PhD Student Researcher** | **Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany**<br> Institute of Atmospheric Physics<br> Earth System Model Evaluation and Analysis | 2020-2025 |
 | **MSc Student Researcher** | **Boğaziçi University, Turkey**<br> iklimBU - Center for Climate Change and Policy Studies | 2017-2019 |
 | **Peer Mentor** | **Brika Sustainability, Turkey** | 2018-2019 |
 | *MSc Student Researcher* | *Boğaziçi University, Turkey<br>BUSPIN - Nanomagnetism and Spin Applications Research Group* | 2015-2017 |
