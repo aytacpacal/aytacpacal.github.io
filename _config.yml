@@ -7,9 +7,9 @@
 
 # Site Settings
 locale: "en-US"
-title: "Aytaç Paçal"
+title: "Dr. Aytaç Paçal"
 title_separator: "-"
-name: &name "Aytaç Paçal"
+name: &name "Dr. Aytaç Paçal"
 description: &description "Personal website"
 url: https://aytacpacal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Aytaç Paçal"
+  name: "Dr. Aytaç Paçal"
   avatar: "ap_23.png"
   bio: ""
   location: "Oberpfaffenhofen"
